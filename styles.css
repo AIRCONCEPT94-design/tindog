@@ -1,0 +1,163 @@
+/*            --------------id operators-------------           */
+#title {background-color:#ff4c68;
+    color: #fff;
+    text-align: center;
+}
+#Features { 
+   padding: 7% 15% ;
+   background-color: #fff;
+   position: relative;
+   z-index: 1;
+  
+}
+#testimonials{color: #fff;
+    background-color: #ef8172;
+    text-align: center;
+    font-size: 1rem;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 3%;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+#cta{
+    background-color:#ff4c68;
+    text-align: center;
+    padding: 3% 15%;
+}
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+    font-size: .7rem;
+   
+}
+
+
+/*            --------------class operators-------------           */
+.container-fluid {padding: 3% 15% 7%;
+
+}
+/* navigation bar */
+
+.navbar{
+    padding:0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: "Arial";
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+}
+.nav-item{
+    color: rgb(255, 255, 255);
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Arial";
+    color: #ffffff;
+}
+.iphone{
+    width: 60%;
+    transform: rotate(25deg);
+    margin: 5% 3%;
+    position: absolute;
+   right: 30%;
+   
+}
+#copy{
+    font-size: 15px;
+}
+#Dac{
+    padding: 3% 4%;
+    text-align: center;
+}
+/* download button */
+.download-button{
+    margin: 5% 3% 5% 0%;
+}
+.feature-box{font-family:  Arial, sans-serif;
+    color: #1c1c1c;
+    font-size: 12px;
+   padding: 5% ;
+   text-align: center;
+
+}
+
+.icon{
+    color: #ef8172;
+    margin: 1rem;
+}
+.icon :hover{
+    color: #ff4c68;
+}
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+.testimonial-imagee{
+    width: 10%;
+    border-radius: 100%;
+    margin-right: 20px;
+
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.pricing-colum{
+    padding: 3% 2%;
+}
+.pricing-colum-2 {
+    margin: auto;
+    padding: 3% 2%;
+
+}
+.insert{margin: auto;
+
+}
+.fnd{
+   color: rgb(255, 255, 255);
+   font-family:'Futura';
+   font-size: 2rem;
+   line-height: 1.5;
+   padding: 0% 12% 0%;
+}
+.info {width: 1%;
+   margin: .5% ;
+    color: #ff4c68;
+}
+
+
+/*            --------------html operators-------------           */
+body{text-align: center;
+
+
+}
+
+h1{color: rgb(255, 255, 255);
+    font-family:'Futura';
+    font-size: 3rem;
+    line-height: 1.5;
+
+}
+
+h2{
+    line-height: 2.5rem;
+    font-weight: bold;
+
+}
+h3{color: rgb(30, 29, 29);
+    font-family: Arial;
+    font-size: 2rem;
+
+
+}
